@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello! I'm Tony
 
-<!--
-**Tony-S201/Tony-S201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a background in web development and a budding interest in blockchain technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Experience**:
+  - **Web Developer** with 4 years of experience in a social web agency and an edtech startup.
+  - **Technical Support**: Provided technical support and troubleshooting in my previous roles.
+
+- 🎓 **Current Endeavor**:
+  - I'm currently enrolled in a **Blockchain Developer Bootcamp** at [Alyra](https://alyra.fr/), where I'm diving deep into the world of blockchain technology.
+
+## Skills
+
+### Web Development
+- **Frontend**: Vue.js, Quasar, React, HTML, CSS, JavaScript
+- **Backend**: Laravel, WordPress, PHP
+- **Tools**: Docker, Git, Jira
+
+### Blockchain
+- **Currently Learning**: Solidity, Web3.js, Hardhat, Foundry, Smart-Contracts optimisation & security
+
+### Others
+- Scrum Product Owner PSPO®
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+---
+
+Thank you for visiting my profile!
+
