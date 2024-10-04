@@ -24,6 +24,10 @@ I'm a passionate developer with a background in web development and a budding in
 ### Others
 - Scrum Product Owner PSPO®
 
+### NPM Packages
+
+[react-lite-carousel](https://www.npmjs.com/package/react-lite-carousel)
+
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ---
