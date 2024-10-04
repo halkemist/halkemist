@@ -10,7 +10,7 @@ I'm a passionate developer with a background in web development and a budding in
 
 - 🎓 **Education**:
   - **Blockchain Developer Bootcamp (2024)**: Successfully completed intensive program at [Alyra](https://alyra.fr/), gaining in-depth knowledge and practical skills in blockchain technology.
-  - **Web Developer Bootcamp (2018)**: Graduated from an immersive full-stack web development program, learning modern web technologies and best practices in software development.
+  - **Web Developer Bootcamp (2018)**: Graduated from an immersive full-stack web development program at [O'Clock](https://oclock.io/), learning modern web technologies and best practices in software development.
 
 ## Skills
 
