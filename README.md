@@ -14,12 +14,15 @@ I'm a passionate developer with a background in web development and a budding in
 ## Skills
 
 ### Web Development
-- **Frontend**: Vue.js, Quasar, React, HTML, CSS, JavaScript
+- **Frontend**: React, Vue, Quasar, HTML, CSS, JavaScript, TypeScript
 - **Backend**: Laravel, WordPress, PHP
 - **Tools**: Docker, Git, Jira
 
 ### Blockchain
-- **Currently Learning**: Solidity, Web3.js, Hardhat, Foundry, Smart-Contracts optimisation & security
+- **Languages**: Solidity
+- **Dev Env**: Hardhat
+- **Library**: Wagmi, Viem
+- **Currently Learning**: Smart-Contracts optimisation & security, DeFi
 
 ### Others
 - [Scrum Product Owner PSPO®](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
