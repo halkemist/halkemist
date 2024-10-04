@@ -8,8 +8,9 @@ I'm a passionate developer with a background in web development and a budding in
   - **Web Developer** with 4 years of experience in a social web agency and an edtech startup.
   - **Technical Support**: Provided technical support and troubleshooting in my previous roles.
 
-- 🎓 **Current Endeavor**:
-  - I'm currently enrolled in a **Blockchain Developer Bootcamp** at [Alyra](https://alyra.fr/), where I'm diving deep into the world of blockchain technology.
+- 🎓 **Education**:
+  - **Blockchain Developer Bootcamp (2024)**: Successfully completed intensive program at [Alyra](https://alyra.fr/), gaining in-depth knowledge and practical skills in blockchain technology.
+  - **Web Developer Bootcamp (2018)**: Graduated from an immersive full-stack web development program, learning modern web technologies and best practices in software development.
 
 ## Skills
 
