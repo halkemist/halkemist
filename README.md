@@ -22,7 +22,7 @@ I'm a passionate developer with a background in web development and a budding in
 - **Currently Learning**: Solidity, Web3.js, Hardhat, Foundry, Smart-Contracts optimisation & security
 
 ### Others
-- Scrum Product Owner PSPO®
+- [Scrum Product Owner PSPO®](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
 
 ### NPM Packages
 
