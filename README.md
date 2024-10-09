@@ -28,6 +28,8 @@ I'm a passionate developer with a background in web development and a budding in
 ### Others
 - [Scrum Product Owner PSPO®](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
 
+## Projects
+
 ### NPM Packages
 
 [react-lite-carousel](https://www.npmjs.com/package/react-lite-carousel)
