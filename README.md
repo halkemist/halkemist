@@ -32,6 +32,10 @@ I'm a passionate developer with a background in web development and a budding in
 
 [react-lite-carousel](https://www.npmjs.com/package/react-lite-carousel)
 
+### Chrome Extension
+
+[Color Picker Lite](https://chromewebstore.google.com/detail/color-picker-lite/alaahbknffekmlfalifhodohhgjmofgp)
+
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ---
