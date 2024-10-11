@@ -30,6 +30,10 @@ I'm a passionate developer with a background in web development and a budding in
 
 ## Projects
 
+### WEB3
+
+FruitMood (coming soon...)
+
 ### NPM Packages
 
 [react-lite-carousel](https://www.npmjs.com/package/react-lite-carousel)
