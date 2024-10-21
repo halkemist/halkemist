@@ -33,6 +33,7 @@ I'm a passionate developer with a background in web development and a budding in
 ### WEB3
 
 [FruitMood (NFT Project)](https://fruitmood.vercel.app/)
+
 [StrateFi (DeFi)](https://stratefi.vercel.app/)
 
 ### NPM Packages
