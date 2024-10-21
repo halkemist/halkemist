@@ -32,7 +32,7 @@ I'm a passionate developer with a background in web development and a budding in
 
 ### WEB3
 
-FruitMood (coming soon...)
+[FruitMood(NFT Project)](https://fruitmood.vercel.app/)
 
 ### NPM Packages
 
