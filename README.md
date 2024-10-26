@@ -16,8 +16,8 @@ I'm a passionate developer with a background in web development and a budding in
 
 ### Web Development
 - **Frontend**: React/Next, Vue, Quasar, HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Backend**: Laravel, WordPress, PHP
-- **Tools**: Docker, Git, Jira
+- **Backend**: Laravel, MySQL, NodeJS, Express, MongoDB
+- **Tools**: Docker, Git, Jira, Github Actions, CircleCI
 
 ### Blockchain
 - **Languages**: Solidity
