@@ -15,7 +15,7 @@ I'm a passionate developer with a background in web development and a budding in
 ## Skills
 
 ### Web Development
-- **Frontend**: React, Vue, Quasar, HTML, CSS, JavaScript, TypeScript
+- **Frontend**: React/Next, Vue, Quasar, HTML, CSS, Tailwind, JavaScript, TypeScript
 - **Backend**: Laravel, WordPress, PHP
 - **Tools**: Docker, Git, Jira
 
