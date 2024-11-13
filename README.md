@@ -23,7 +23,7 @@ I'm a passionate developer with a background in web development and a budding in
 - **Languages**: Solidity
 - **Dev Env**: Hardhat
 - **Library**: Wagmi, Viem
-- **Currently Learning**: Smart-Contracts optimisation & security, DeFi
+- **Currently Learning**: Next/Express & DeFi  Smart Contracts
 
 ### Others
 - [Scrum Product Owner PSPO®](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
