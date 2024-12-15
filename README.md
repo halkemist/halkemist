@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Tony
+# 👋 Hello!
 
 I'm a passionate developer with a background in web development and a budding interest in blockchain technology.
 
@@ -46,7 +46,7 @@ I'm a passionate developer with a background in web development and a budding in
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tony-S201&theme=meta-light&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=halkemist&theme=meta-light&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
