@@ -5,9 +5,8 @@ I'm a passionate developer with a background in web development and a budding in
 ## About Me
 
 - 💼 **Experience**:
-  - **Web Developer** with 4 years of experience in a social web agency and an edtech startup.
-  - **Technical Support**: Provided technical support and troubleshooting in my previous roles.
-
+  - **Web Developer** with 5 years of experience.
+    
 - 🎓 **Education**:
   - **Blockchain Developer Bootcamp (2024)**: Successfully completed intensive program at [Alyra](https://alyra.fr/), gaining in-depth knowledge and practical skills in blockchain technology.
   - **Web Developer Bootcamp (2018)**: Graduated from an immersive full-stack web development program at [O'Clock](https://oclock.io/), learning modern web technologies and best practices in software development.
@@ -15,8 +14,8 @@ I'm a passionate developer with a background in web development and a budding in
 ## Skills
 
 ### Web Development
-- **Frontend**: React/Next, Vue, Quasar, HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Backend**: Laravel, MySQL, NodeJS, Express, MongoDB
+- **Frontend**: VueJS, React.js/Next.js Quasar, HTML, CSS, Tailwind, JavaScript, TypeScript
+- **Backend**: Laravel, MySQL, Express, MongoDB
 - **Tools**: Docker, Git, Jira, Github Actions, CircleCI
 
 ### Blockchain
@@ -24,10 +23,7 @@ I'm a passionate developer with a background in web development and a budding in
 - **Dev Env**: Hardhat
 - **Library**: Wagmi, Viem, Ethers
   
-- **Currently Learning**: Node.js & DeFi  Smart Contracts
-
-### Others
-- [Scrum Product Owner PSPO®](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification)
+- **Currently Learning**: DeFi  Smart Contracts
 
 ## Projects
 
