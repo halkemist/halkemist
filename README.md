@@ -1,21 +1,22 @@
 # 👋 Hello!
 
-I'm a passionate developer with a background in web development and a budding interest in blockchain technology.
+I'm a passionate developer with a background in web development and an interest in blockchain technology.
 
 ## About Me
 
 - 💼 **Experience**:
-  - **Web Developer** with 5 years of experience.
+  - **Web Developer** with 4+ years of experience.
+  - **Blockchain Developer** with 6 month of experience.
     
 - 🎓 **Education**:
-  - **Blockchain Developer Bootcamp (2024)**: Successfully completed intensive program at [Alyra](https://alyra.fr/), gaining in-depth knowledge and practical skills in blockchain technology.
-  - **Web Developer Bootcamp (2018)**: Graduated from an immersive full-stack web development program at [O'Clock](https://oclock.io/), learning modern web technologies and best practices in software development.
+  - **Blockchain Developer Bootcamp (2024)**: Successfully completed intensive program at [Alyra](https://alyra.fr/), gaining knowledge and practical skills in blockchain technology.
+  - **Web Developer Bootcamp (2018)**: Graduated from a full-stack web development program at [O'Clock](https://oclock.io/), learning modern web technologies and best practices in software development.
 
-## Skills
+## Main Skills
 
 ### Web Development
-- **Frontend**: VueJS, React.js/Next.js Quasar, HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Backend**: Laravel, MySQL, Express, MongoDB
+- **Frontend**: VueJS, React.js/Next.js, Tailwind, TypeScript
+- **Backend**: Laravel
 - **Tools**: Docker, Git, Jira, Github Actions, CircleCI
 
 ### Blockchain
