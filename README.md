@@ -16,7 +16,7 @@ I'm a passionate developer with a background in web development and an interest 
 
 ### Web Development
 - **Frontend**: VueJS, React.js/Next.js, Tailwind, TypeScript
-- **Backend**: Laravel
+- **Backend**: Laravel, PHP, SQL, MySQL
 - **Tools**: Docker, Git, Jira, Github Actions, CircleCI
 
 ### Blockchain
@@ -27,6 +27,10 @@ I'm a passionate developer with a background in web development and an interest 
 - **Currently Learning**: DeFi  Smart Contracts
 
 ## Projects
+
+### WEB2
+
+[ReserveLink (Meeting Platform)](https://github.com/halkemist/ReserveLink)
 
 ### WEB3
 
