@@ -48,7 +48,7 @@ I'm a passionate developer with a background in web development and an interest 
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=halkemist&theme=meta-light&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halkemist)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
